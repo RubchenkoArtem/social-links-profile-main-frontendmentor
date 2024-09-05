@@ -25,8 +25,8 @@ See hover and focus states for all interactive elements on the page
 
 ### Solutions
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click](https://www.frontendmentor.io/solutions/css-html-8xesAdaPkE)
+- Live Site URL: [Click](https://rubchenkoartem.github.io/social-links-profile-main-frontendmentor/)
 
 ## My process
 
