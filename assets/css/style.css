@@ -37,7 +37,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 130px;
+    margin-inline: auto;
     color: var(--Neutral-White);
   }
 
@@ -149,9 +149,32 @@ body {
   /* The Mobile designs style */
   /* Стиль мобильного дизайна */
 
+
+  @media (max-width: 1300px) {
+    main {
+      max-width: 375px;
+      height: 857px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    main {
+      max-width: 375px;
+      height: 857px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    main {
+      max-width: 375px;
+      height: 857px;
+    }
+  }
+
   @media (max-width: 425px) {
     main {
       max-width: 375px;
+      height: 857px;
     }
   }
 
